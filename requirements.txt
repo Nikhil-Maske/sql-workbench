@@ -1,0 +1,6 @@
+streamlit
+duckdb
+pandas
+openpyxl
+streamlit-ace
+python-calamine

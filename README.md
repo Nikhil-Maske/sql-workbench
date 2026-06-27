@@ -16,7 +16,7 @@ An enterprise-grade local SQL analytical workbench designed to instantly query m
 
 You do not need to install Python or look at any code to run this application. Follow these simple steps:
 
-1. **Download the Launcher:** Click on the **`Launch_SQL_Workbench.bat`** file in the list above, then click the **Download raw file** button (or click the direct link below).
+1. **Download the Launcher:** Click on the **`Launch_Workbench.bat`** file in the list above, then click the **Download raw file** button (or click the direct link below).
 2. **Move to Desktop:** Place the downloaded file onto your Desktop for easy access.
 3. **Double-Click to Launch:** Run the `.bat` file. 
 
